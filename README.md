@@ -12,7 +12,8 @@
 </div>
 
 ## 🕵️ Descrição
-O desafio proposto é criar uma aplicação com Spring Boot que realize pesquisas por livros com a api gutendex.com e faça operações de persistência e exibição de dados.
+
+O Literalura é um projeto que permite gerenciar livros, categorias e informações de leitura, integrando funcionalidades de cadastro, consulta e persistência de dados em um banco de dados PostgreSQL.
 
 ## 🛠️ Uso
 Use git clone e execute o projeto, será necessário também gerar o próprio servidor postgres e configurar adequadamente em application.properties.
@@ -22,6 +23,7 @@ git clone https://github.com/Elineison/literalura.git
 
 
 ## 🧰 Funcionalidades
+
 - Pesquisar livros disponíveis no Gutendex;
 - Persistir dados de livros e autores pesquisados;
 - Apresentar os dados persistidos ao usuário;
@@ -30,6 +32,10 @@ git clone https://github.com/Elineison/literalura.git
 ## 📷 Demonstrando a aplicação
 
 https://github.com/user-attachments/assets/f1da4fb2-8086-4419-af23-2b333d3d3d1d
+
+>Licença
+
+> Este projeto é desenvolvido apenas para fins educacionais e faz parte do curso do programa ONE - Oracle Next Education.
 
 ## 🤖 Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
