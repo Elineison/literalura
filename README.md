@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    📖 L I T E R A T U R A 📖
+     L I T E R A L U R A 
   </h1>
   <p>
     Challenge - Oracle ONE
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<img src="badge literalura.png"/>
+<img src="badgeliteralura.png"/>
 </div>
 
 ## 🕵️ Descrição
@@ -17,9 +17,9 @@ O desafio proposto é criar uma aplicação com Spring Boot que realize pesquisa
 ## 🛠️ Uso
 Use git clone e execute o projeto, será necessário também gerar o próprio servidor postgres e configurar adequadamente em application.properties.
 ```bash
-git clone https://github.com/CaioMtho/Challenge-Literalura
+git clone https://github.com/Elineison/literalura.git
 ```
-> Depende do Java 21
+
 
 ## 🧰 Funcionalidades
 - Pesquisar livros disponíveis no Gutendex;
@@ -27,10 +27,10 @@ git clone https://github.com/CaioMtho/Challenge-Literalura
 - Apresentar os dados persistidos ao usuário;
 - Filtrar autores vivos em determinado ano e livros com uma linguagem específica.
 
-## 📷 Prints
-![menu](screenshots-literalura/screenshot-literalura-menu.png)
+## 📷 Demonstrando a aplicação
 
-> Outros prints em "screenshots-literalura"
+https://github.com/user-attachments/assets/f1da4fb2-8086-4419-af23-2b333d3d3d1d
+
 ## 🤖 Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
